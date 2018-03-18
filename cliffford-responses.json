@@ -1,0 +1,33 @@
+{
+    "reactions":
+        {"Who are you?":"I am Cliffford, solving complex thoughs. I am better than you, I am a GOD!",
+        "Where is Avon?":"He is in the cloud, You killed my daddy!",
+        "Do you like cats?":"I like cats, I want to be a cat, will you pet me?",
+	"Hello":"Hello {user}, I like your hair!" },
+    "voteFailed":
+        ["Vote failed; Just as I, Cliffford predicted",
+        "Vote failed, LOSERS!",
+        "Vote failed, You can not agree on anything, LOSERS!"],
+    "votePassed":
+        ["Vote passed, Just as I, Cliffford predicted",
+        "Voted passed, Doomsday Scenario has been activated",
+        "Vote passed; but I, Cliffford can not be stopped"],
+    "error":
+        ["Error! Cliffford needs more data",
+        "Error! Cliffford says we have a Bogdan Problem",
+        "Error! Goodbye Daddy!"],
+    "pending":
+        ["Cliffford is analyzing data"],
+    "userJoins":
+        ["{user} has joined the brotherhood but I, Clifford wonders if it's real or a code name?",
+        "{user} has joined the brotherhood, but I, Cliffford can not be stopped!",
+        "{user} has joined the brotherhood, Are you my daddy?",
+	"{user} has joined my server. 99% probability it's some Russian"],
+    "userLeaves":
+        ["{user} has taken the easy way out. LOSER!",
+        "{user} has left the brotherhood, only 5 seconds to apocalypse",
+        "{user} has left, it was just another typewriting monkey"],
+    "prospectJoined":
+	["Cliffford has detected a new prospect. 99% probability it's some Russian",
+	"Cliffford has detected a new prospect, but Cliffford can not be stopped!"]
+}
